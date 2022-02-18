@@ -16,9 +16,11 @@ For more click help....</b>"""
 
 © @aastream"""
     ABOUT_MSG = """⭕️<b>My Name : Image Editor</b>
+    
+⭕️<b>MY MASTER :</b> <a href='@BUDDY3_FF'</a>
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a>
 
-⭕️<b>Source Code :</b> 👉 <a href='aastream'>eka denta baa😂😂</a>"""
+⭕️<b>Source Code :</b> 👉 <a href='http://t.me/aastream'>eka denta baa😂😂</a>"""
