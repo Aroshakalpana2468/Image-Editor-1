@@ -17,7 +17,7 @@ For more click help....</b>"""
 © @aastream"""
     ABOUT_MSG = """⭕️<b>My Name : Image Editor</b>
     
-⭕️<b>MY MASTER :</b> <a href='@BUDDY3_FF'</a>
+⭕️<b>MY MASTER :</b> <a href='https://t.me/BUDDY3_FF'>AROSHA</a>
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
