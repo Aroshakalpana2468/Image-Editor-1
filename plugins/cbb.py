@@ -111,7 +111,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/TR-TECH-GUIDE/Image-Editor"
+                        "SOURCE CODE", msg="eka denna baa bokka"
                     )
                 ],
             ]
@@ -131,7 +131,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/TR-TECH-GUIDE/Image-Editor"
+                        "SOURCE CODE", url="eka denna baa bokka"
                     )
                 ],
             ]
@@ -148,7 +148,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/TR-TECH-GUIDE/Image-Editor"
+                        "SOURCE CODE", url="eka denna baa bokka"
                     )
                 ],
             ]
