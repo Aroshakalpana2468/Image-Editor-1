@@ -23,4 +23,4 @@ For more click help....</b>"""
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a>
 
-⭕️<b>Source Code :</b> 👉 <a href='http://t.me/aastream'>eka denta baa😂😂</a>"""
+⭕️<b>Source Code :</b> 👉 <a href='http://t.me/aastrem'>eka denta baa😂😂</a>"""
